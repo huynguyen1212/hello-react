@@ -12,7 +12,7 @@ class App extends Component {
         todoItems: [
           { title: "Đi đá bóng", isComplete: true }, // thêm title để gía trị chuyển vào linh hoat hơn, k chỉ là string nữa
           { title: "Đi chơi", isComplete: true },
-          { title: "Đi đổ xăng" },
+          { title: "Đi đổ xăng", isComplete: false },
         ],
       });
 
